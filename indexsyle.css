@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+#prems
+{
+    background: rgb(0,1,50);
+    background: linear-gradient(90deg, rgba(0,1,50,1) 6%, rgba(96,0,0,1) 50%, rgba(9,0,56,1) 94%);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+}
+
+h1
+{
+    font-size: 5vh;
+    
+}
+#vlow
+
+{
+    background: rgb(0,1,50);
+    background: linear-gradient(90deg, rgba(0,1,50,1) 6%, rgba(96,0,0,1) 50%, rgba(9,0,56,1) 94%);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+}
+#lol
+{
+    background: rgb(0,1,50);
+    background: linear-gradient(90deg, rgba(0,1,50,1) 6%, rgba(96,0,0,1) 50%, rgba(9,0,56,1) 94%);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+}
+#Ai
+{
+    
+    font-size: 3vh;
+  position: absolute;
+}
+#zwaw
+{
+    text-align: center;
+}
+#by
+{
+    text-align: center;
+}
+.btn
+{
+    background-color: black;
+    width: 334.2px;
+    color: rgb(255, 255, 255); 
+font-size: 2vh;
+    height: 70px;
+    text-align: center;
+}

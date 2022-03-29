@@ -1,0 +1,19 @@
+body
+{
+    background: rgb(0,1,50);
+    background: linear-gradient(90deg, rgba(0,1,50,1) 6%, rgba(96,0,0,1) 50%, rgba(9,0,56,1) 94%);  
+}
+
+   
+section
+{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+}
+h1
+{
+    font-size: 5vh;
+}
